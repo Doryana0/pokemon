@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(181, 29, 29, 0.635);
+    /* display: flex; */
+}
+
+.img1{
+    display: flex;
+    width: 20%;
+}
+.txt1{
+    text-align: center;
+}
+
+.img2 {
+    width: 20%;
+}
+
+.img2{
+    width: 20%;
+}
+
+
+.pok {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        
+}
+
+
+.reseau{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    
+}
+
+p{
+    text-align: center;
+}
+
+form{
+   display: flex;
+   justify-content: center;
+   margin: 1%;
+   
+}
+
+button{
+    /* width: 3%; */
+    padding: 1%;
+    background-color: white;
+    border: solid black 1px;
+}
+
+button:hover{
+    background-color: rgb(187, 187, 187);
+    border: solid rgb(255, 255, 255) 1px;
+
+}

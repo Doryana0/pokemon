@@ -1,0 +1,11 @@
+body { 
+    background-color: brown;
+
+}
+
+.img10 {
+    display: flex;
+    width: 10% ; 
+    align-items: center;
+}
+
