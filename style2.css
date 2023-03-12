@@ -1,11 +1,42 @@
-body { 
+body {
     background-color: brown;
 
 }
 
 .img10 {
-    display: flex;
-    width: 10% ; 
-    align-items: center;
+
+    width: 10%;
+
 }
 
+.img11 {
+    width: 10%;
+    margin-left: 1%;
+
+}
+
+.item {
+    width: 10em;
+
+}
+
+.lol {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+button{
+    /* width: 3%; */
+    padding: 1%;
+    background-color: white;
+    border: solid black 1px;
+}
+
+button:hover{
+    background-color: rgb(187, 187, 187);
+    border: solid rgb(255, 255, 255) 1px;
+
+}
